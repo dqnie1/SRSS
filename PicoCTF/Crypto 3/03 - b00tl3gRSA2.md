@@ -1,0 +1,24 @@
+# Descripción
+In RSA d is a lot bigger than e, why don't we use d to encrypt instead of e?Connect with nc fickle-tempest.picoctf.net 52999.
+
+# Solución 
+```
+c =124260768479052523734768258718724537540553487781263136261306875171029387>
+
+n = 146505163069867401700141159098126808263568365248695929921012781445363503>
+
+e = 900486897291667100307473056562055646500917174870373903150622833236512602>
+
+e = 65537
+
+m = pow(c,e,n)
+
+flag = bytes.fromhex(hex(m)[2:]).decode()
+
+print(flag) 
+
+```
+
+# Referencia
+
+#

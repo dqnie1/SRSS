@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01-General Skills/10 - nice netcat....md",
+                "file": "PicoCTF/Crypto 4/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - nice netcat..."
+              "title": "ReadMyCert"
             }
           },
           {
@@ -82,16 +82,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/PicoCTF Crypto 2/rsa pop quiz (exp.py).md",
+                "file": "PicoCTF/Tarea 1 - General skills/02 - chrono.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rsa pop quiz (exp.py)"
+              "title": "02 - chrono"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/PicoCTF Crypto 2/rsa pop quiz (exp.py).md",
+                "file": "PicoCTF/Crypto 4/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de rsa pop quiz (exp.py)"
+              "title": "Enlaces entrantes de ReadMyCert"
             }
           },
           {
@@ -252,10 +252,27 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "000d24ca7fe3c706",
+  "active": "28c4df389e5f7e5b",
   "lastOpenFiles": [
-    "PicoCTF/Tarea 2 - Web/IntroToBurp.md",
+    "PicoCTF/Crypto 4/Pixelated.md",
+    "PicoCTF/Crypto 4/ReadMyCert.md",
+    "PicoCTF/Crypto 4/HideToSee.md",
+    "PicoCTF/Crypto 4/basic-mod1.md",
+    "PicoCTF/Crypto 4/flags.md",
+    "PicoCTF/Crypto 3/03 - b00tl3gRSA2 1.md",
+    "PicoCTF/Crypto 4",
+    "PicoCTF/Crypto 3/03 - b00tl3gRSA2.md",
+    "PicoCTF/04 - picoCTF Web 1/06 - Client-side-again.md",
+    "PicoCTF/04 - picoCTF Web 1/05 - picobrowser.md",
+    "PicoCTF/Tarea 1 - General skills/02 - chrono.md",
+    "PicoCTF/Crypto 3",
+    "PicoCTF/01-General Skills/10 - nice netcat....md",
+    "PicoCTF/04 - picoCTF Web 1/01 - Insp3ct0r.md",
+    "PicoCTF/01-General Skills/01-Lets Warm Up.md",
     "PicoCTF/PicoCTF Crypto 2/rsa pop quiz (exp.py).md",
+    "PicoCTF/Tarea 1 - General skills",
+    "PicoCTF/Sin título.md",
+    "PicoCTF/Tarea 2 - Web/IntroToBurp.md",
     "PicoCTF/PicoCTF Crypto 2",
     "PicoCTF/Tarea 2 - Web/Inspect HTML.md",
     "PicoCTF/Tarea 2 - Web/Includes.md",
@@ -271,26 +288,9 @@
     "PicoCTF/Tarea 2 - Web",
     "PicoCTF/Forensic 4/Operation Oni.md",
     "PicoCTF/Forensic 4/Operation Orchid.md",
-    "PicoCTF/Forensic 4/Sleuthkit Apprentice.md",
-    "PicoCTF/Forensic 4/Sleuthkit Intro.md",
-    "PicoCTF/Forensic 4/Milkslap.md",
-    "PicoCTF/forensic 1/01 - Glory of the Garden.md",
     "PicoCTF/Forensic 4",
     "Sin nombre",
-    "PicoCTF/forensic 1/04 - extensions.md",
-    "PicoCTF/forensic 1/03 - shark on wire 1.md",
-    "PicoCTF/forensic 1/02 - So Meta.md",
     "PicoCTF/forensic 1",
-    "PicoCTF/picoCTF Web 4/03 - Trickster.md",
-    "PicoCTF/picoCTF Web 3/03 - JaWT Scratchpad.md",
-    "PicoCTF/picoCTF Web 4/02 - SOAP.md",
-    "PicoCTF/picoCTF Web 4",
-    "PicoCTF/Sin título.md",
-    "PicoCTF/picoCTF Web 3/02 - More SQLi.md",
-    "PicoCTF/picoCTF Web 2/01 - GET aHEAD.md",
-    "PicoCTF/picoCTF Web 3/01 - Irish-Name-Repo 1.md",
-    "PicoCTF/picoCTF Web 3",
-    "PicoCTF/picoCTF Web 2",
-    "PicoCTF/04 - picoCTF Web 1"
+    "PicoCTF/picoCTF Web 4"
   ]
 }
