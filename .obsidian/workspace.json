@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crypto 4/ReadMyCert.md",
+                "file": "PicoCTF/Crypto 3/03 - b00tl3gRSA2 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReadMyCert"
+              "title": "03 - b00tl3gRSA2 3"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Crypto 4/ReadMyCert.md",
+                "file": "PicoCTF/Crypto 3/03 - b00tl3gRSA2 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de ReadMyCert"
+              "title": "Enlaces entrantes de 03 - b00tl3gRSA2 3"
             }
           },
           {
@@ -254,14 +254,15 @@
   },
   "active": "28c4df389e5f7e5b",
   "lastOpenFiles": [
-    "PicoCTF/Crypto 4/Pixelated.md",
+    "PicoCTF/Crypto 3/03 - b00tl3gRSA2.md",
+    "PicoCTF/Crypto 3/01 - Mini RSA.md",
+    "PicoCTF/Crypto 3/03 - b00tl3gRSA2 3.md",
     "PicoCTF/Crypto 4/ReadMyCert.md",
+    "PicoCTF/Crypto 4/Pixelated.md",
     "PicoCTF/Crypto 4/HideToSee.md",
     "PicoCTF/Crypto 4/basic-mod1.md",
     "PicoCTF/Crypto 4/flags.md",
-    "PicoCTF/Crypto 3/03 - b00tl3gRSA2 1.md",
     "PicoCTF/Crypto 4",
-    "PicoCTF/Crypto 3/03 - b00tl3gRSA2.md",
     "PicoCTF/04 - picoCTF Web 1/06 - Client-side-again.md",
     "PicoCTF/04 - picoCTF Web 1/05 - picobrowser.md",
     "PicoCTF/Tarea 1 - General skills/02 - chrono.md",
@@ -287,7 +288,6 @@
     "PicoCTF/04 - picoCTF Web 1/04 - dont-use-client-side.md",
     "PicoCTF/Tarea 2 - Web",
     "PicoCTF/Forensic 4/Operation Oni.md",
-    "PicoCTF/Forensic 4/Operation Orchid.md",
     "PicoCTF/Forensic 4",
     "Sin nombre",
     "PicoCTF/forensic 1",
