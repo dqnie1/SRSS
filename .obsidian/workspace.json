@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reversing Parte 1/vault-door-5.md",
+                "file": "PicoCTF/Tarea 1 - General skills/10 - ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-door-5"
+              "title": "10 - ASCII Numbers"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Descripción",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -141,7 +141,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Reversing Parte 1/vault-door-5.md",
+                "file": "PicoCTF/Tarea 1 - General skills/10 - ASCII Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de vault-door-5"
+              "title": "Enlaces entrantes de 10 - ASCII Numbers"
             }
           },
           {
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01-Lets Warm Up"
+              "title": "Enlaces salientes de 01-Lets Warm Up"
             }
           },
           {
@@ -254,43 +254,45 @@
   },
   "active": "28c4df389e5f7e5b",
   "lastOpenFiles": [
+    "PicoCTF/Tarea 1 - General skills/09 - binhexa.md",
+    "PicoCTF/Tarea 1 - General skills/10 - ASCII Numbers.md",
+    "PicoCTF/Tarea 1 - General skills/08 - binary search.md",
+    "PicoCTF/Tarea 1 - General skills/07 - collaborative development.md",
+    "PicoCTF/Tarea 1 - General skills/06 - blame game.md",
+    "PicoCTF/Tarea 1 - General skills/05 - time machine.md",
+    "PicoCTF/Tarea 1 - General skills/04 - committee issue.md",
+    "PicoCTF/Tarea 1 - General skills/03 - special.md",
+    "PicoCTF/Tarea 1 - General skills/01 - permissions.md",
+    "PicoCTF/Tarea 1 - General skills/02 - chrono.md",
+    "PicoCTF/Forensic 1/03 - shark on wire 1.md",
+    "PicoCTF/Forensic 1/04 - extensions.md",
+    "2026-05-08.md",
+    "2026-05-05.md",
+    "Sin título 3.canvas",
+    "Sin título 2.canvas",
+    "Sin título 1.canvas",
+    "Sin título 2.base",
+    "Sin título 1.base",
+    "Sin título.canvas",
+    "PicoCTF/Forensic 2/01 - m00nwalk.md",
+    "PicoCTF/Forensic 1/01 - Glory of the Garden.md",
+    "04 - What Lies Within.md",
+    "PicoCTF/Forensic 2",
+    "README.md",
+    "Sin título.base",
+    "PicoCTF/Reversing Parte 1/vault-door-5.md",
+    "Welcome.md",
     "PicoCTF/Reversing Parte 1/vault-door-1.md",
     "PicoCTF/Reversing Parte 1/vault-door-3.md",
     "PicoCTF/Reversing Parte 1/vault-door-4.md",
-    "PicoCTF/Reversing Parte 1/vault-door-5.md",
     "PicoCTF/Reversing Parte 1/vault-door-training.md",
     "PicoCTF/Crypto 4/flags.md",
     "PicoCTF/Sin nombre 1",
     "PicoCTF/Reversing Parte 1",
     "Sin nombre",
     "PicoCTF/Crypto 4/ReadMyCert.md",
-    "PicoCTF/Crypto 4/HideToSee.md",
-    "PicoCTF/Crypto 4/basic-mod1.md",
-    "PicoCTF/Crypto 4/Pixelated.md",
-    "PicoCTF/Crypto 3/03 - b00tl3gRSA2 3.md",
-    "PicoCTF/Crypto 3/03 - b00tl3gRSA2.md",
-    "PicoCTF/Crypto 3/01 - Mini RSA.md",
     "PicoCTF/Crypto 4",
-    "PicoCTF/04 - picoCTF Web 1/06 - Client-side-again.md",
-    "PicoCTF/04 - picoCTF Web 1/05 - picobrowser.md",
-    "PicoCTF/Tarea 1 - General skills/02 - chrono.md",
     "PicoCTF/Crypto 3",
-    "PicoCTF/01-General Skills/10 - nice netcat....md",
-    "PicoCTF/04 - picoCTF Web 1/01 - Insp3ct0r.md",
-    "PicoCTF/01-General Skills/01-Lets Warm Up.md",
-    "PicoCTF/PicoCTF Crypto 2/rsa pop quiz (exp.py).md",
-    "PicoCTF/Tarea 1 - General skills",
-    "PicoCTF/Sin título.md",
-    "PicoCTF/Tarea 2 - Web/IntroToBurp.md",
-    "PicoCTF/PicoCTF Crypto 2",
-    "PicoCTF/Tarea 2 - Web/Inspect HTML.md",
-    "PicoCTF/Tarea 2 - Web/Includes.md",
-    "04 - What Lies Within.md",
-    "PicoCTF/picoCTF Web 4/04 - Most Cookies.md",
-    "Sin título.base",
-    "Sin título 1.canvas",
-    "Sin título.canvas",
-    "PicoCTF/Tarea 2 - Web",
-    "PicoCTF/Forensic 4"
+    "PicoCTF/Tarea 1 - General skills"
   ]
 }
